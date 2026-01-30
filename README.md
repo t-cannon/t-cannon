@@ -5,6 +5,6 @@
 
 - 🔭 I’m currently working on learning web development
 - 🌱 I’m currently learning fundamental coding languages
-- 📸 Hobbies: Wildlife photography, science, exploration, and collecting
+- 📸 Hobbies: Wildlife photography, gaming, science, exploration, and collecting
 - 🖥 Skills: Experience in UI/UX design and 20 years of experience in IT management
 
